@@ -1,0 +1,9 @@
+﻿==========================Exercise Checking Report==========================
+Exercise No………..:  1
+First Student Details.:  318021698 – Alex Garmash
+Second Student Details:  060129210 – Benny Solomon
+Delivery Date………:  07 – August – 2016
+Delivery In Delay….:  No
+Delay Reason……….:
+Comments…………..:
+=======================End Exercise Checking Report========================
